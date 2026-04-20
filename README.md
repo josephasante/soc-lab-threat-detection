@@ -79,11 +79,11 @@ Wireshark (Packet analysis)
 NetworkMiner (Forensic extraction)
 The goal is to demonstrate practical SOC analyst skills: alert triage, PCAP analysis, IOC extraction, detection engineering, and incident documentation.
 ## Architecture Diagram
-Code
-                +---------------------------+
-                 |      Security Onion       |
-                 |  SIEM / IDS / IPS / PCAP  |
-                 +-------------+-------------+
+- Code
+               - +---------------------------+
+               -  |      Security Onion       |
+               -  |  SIEM / IDS / IPS / PCAP  |
+               -  +-------------+-------------+
                                |
                                |
                 ---------------------------------
