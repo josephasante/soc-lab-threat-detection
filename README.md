@@ -36,7 +36,7 @@ The lab simulates real-world attacks in a controlled environment and documents t
 
 ## Indicators of Compromise (IOCs)
 - Attacker IP: 192.168.207.133
-- Victim IP: 192.168.136
+- Victim IP: 192.168.207.136
 - Suspicious Ports: 3632, 4444, 8080
 
 ## Project Artifacts
