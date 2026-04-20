@@ -69,9 +69,9 @@ The lab simulates real-world attacks in a controlled environment and documents t
 Joseph Asante
 
 # SOC Lab – Threat Detection & Network Monitoring
-- A hands‑on SOC project demonstrating real‑world detection, analysis, and incident response workflows.
-- Overview
-- This project showcases a fully built SOC lab designed to detect malicious activity through network traffic analysis, IDS/IPS monitoring, and threat hunting. The environment simulates realistic attack scenarios and documents how each activity is detected, analyzed, and validated using:
+A hands‑on SOC project demonstrating real‑world detection, analysis, and incident response workflows.
+Overview
+This project showcases a fully built SOC lab designed to detect malicious activity through network traffic analysis, IDS/IPS monitoring, and threat hunting. The environment simulates realistic attack scenarios and documents how each activity is detected, analyzed, and validated using:
 Security Onion (SIEM / IDS / IPS)
 Zeek (Network metadata)
 Suricata (Signature‑based detection)
