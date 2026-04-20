@@ -70,15 +70,15 @@ Joseph Asante
 
 # SOC Lab – Threat Detection & Network Monitoring
 A hands‑on SOC project demonstrating real‑world detection, analysis, and incident response workflows.
-Overview
+## Overview
 This project showcases a fully built SOC lab designed to detect malicious activity through network traffic analysis, IDS/IPS monitoring, and threat hunting. The environment simulates realistic attack scenarios and documents how each activity is detected, analyzed, and validated using:
-Security Onion (SIEM / IDS / IPS)
-Zeek (Network metadata)
-Suricata (Signature‑based detection)
+- Security Onion (SIEM / IDS / IPS)
+- Zeek (Network metadata)
+- Suricata (Signature‑based detection)
 Wireshark (Packet analysis)
 NetworkMiner (Forensic extraction)
 The goal is to demonstrate practical SOC analyst skills: alert triage, PCAP analysis, IOC extraction, detection engineering, and incident documentation.
-Architecture Diagram
+## Architecture Diagram
 Code
                 +---------------------------+
                  |      Security Onion       |
