@@ -35,8 +35,8 @@ The lab simulates real-world attacks in a controlled environment and documents t
 - Created custom Suricata rules to support detection.
 
 ## Indicators of Compromise (IOCs)
-- Attacker IP: 192.168.1.132
-- Victim IP: 192.168.1.135
+- Attacker IP: 192.168.207.133
+- Victim IP: 192.168.136
 - Suspicious Ports: 3632, 4444, 8080
 
 ## Project Artifacts
